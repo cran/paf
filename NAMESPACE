@@ -1,0 +1,3 @@
+import(survival)
+exportPattern("^[^\\.]")
+S3method(plot, paf)
